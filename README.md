@@ -1,8 +1,11 @@
-# Carga-Pesada
+# Sistema Carga-Pesada
 
 - FAQ
 
-## 1. Como pesar caminhão manualmente
+Pesar Manualmente
+
+
+# Pesar Manualmente
 - Informar todos os dados  
 - Desmarcar a caixa "monitorando balança"
 - Clicar na caixa onde mostra o peso da balança
